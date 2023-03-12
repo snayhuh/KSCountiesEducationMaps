@@ -7,8 +7,8 @@ As the "brain drain" becomes more prevalent in Kansas counties, these results sh
 
 Feel free to check out the interactive maps and code here: https://nbviewer.org/github/snayhuh/KSCountiesEducationMaps/blob/main/KansasCountiesEducation.ipynb 
 
-## The Code 
-I use python and specifically use `pygris` to easily download the Census shapefiles into Python and very easily make chorpopleth maps. This package also allows the user to explore geographical and statistical entites (like roads and tracts). I also used this as an exploration of the features of the `tigris` package
+## Code 
+I use python and specifically use `pygris` to easily download the Census shapefiles into Python and very easily make chorpopleth maps. This package also allows the user to explore geographical and statistical entites (like roads and tracts). I also used this as an exploration of the features of the `tigris` package. YOu can find the code in the ipython notebook in the repo.
 
 ## Contact
 Sneha Verma, at snayhuh[dot]verma[at]gmail.com
